@@ -4,12 +4,6 @@ This is a "Blogging Platform" which gives all general features a blog should hav
 
 The backend is completely build on Django using Django Rest Framework, while the frontend is completed using ReactJS.
 
-# Demo
-
-**FrontEnd** :[https://simpleisbetter.herokuapp.com/](https://simpleisbetter.herokuapp.com/) 
-
-**BackEnd** :[https://softbike.herokuapp.com/](https://softbike.herokuapp.com/)
-
 ### Features
 
 - Login/Registration
@@ -32,8 +26,8 @@ The backend is completely build on Django using Django Rest Framework, while the
 
 ## Backend Setup
 
-1. Clone this repository: `git clone https://github.com/dojutsu-user/Django-React-Blog.git`.
-2. Change the current directory to `backend` folder: `cd ./Django-React-Blog/backend/adminapi/`.
+1. Clone this repository: `git clone https://github.com/codyle50/react-django-blog.git`.
+2. Change the current directory to `backend` folder: `cd ./react-django-blog/backend/adminapi/`.
 3. Create a virutal environment and install all backend dependencies with pipenv: `pipenv install`.
 4. Start the virtual environment: `pipenv shell`.
 5. Change the working directory to `adminapi` which contains the `manage.py` file: `cd ./adminapi`.
@@ -44,7 +38,7 @@ The backend is completely build on Django using Django Rest Framework, while the
 
 ## Frontend Setup
 
-1. Navigate the current working directory to `landing`: `cd ./Django-React-Blog/frontend/blog_frontend/`.
+1. Navigate the current working directory to `landing`: `cd ./react-django-blog/frontend/blog_frontend/`.
 2. Install the all frontend dependencies using npm: `npm install`.
 3. Run the server: `npm start`.
 
@@ -71,7 +65,3 @@ API Documentation is generated using the default tool provided by Django Rest Fr
 ### View The API documentation
 
 1. Make sure that the Backend Server is running.
-
-**Regrads**
-
- Rahul Raj
